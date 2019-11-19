@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776230078837",
+    "firebase_url": "https://daytrippa-d2cfb.firebaseio.com",
+    "project_id": "daytrippa-d2cfb",
+    "storage_bucket": "daytrippa-d2cfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776230078837:android:51107755d8e58031",
+        "android_client_info": {
+          "package_name": "com.stuff.squishy.daytrippa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776230078837-i7fk76fda8da65bfhakh249j6q5cir7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stuff.squishy.daytrippa",
+            "certificate_hash": "199baf9cbd9d54f07ddf8ec2f731372df39f5563"
+          }
+        },
+        {
+          "client_id": "776230078837-ntdt9v6mofcc0il32585ee4bqgiqf4oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtftigmWpMWQRiDCeYIFyt81JjERjNUkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776230078837-ntdt9v6mofcc0il32585ee4bqgiqf4oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

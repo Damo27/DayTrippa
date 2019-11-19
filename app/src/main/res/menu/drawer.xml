@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Travel" android:title="Travel" android:icon="@drawable/ic_travel"/>
+    <item android:id="@+id/Share" android:title="Share" android:icon="@drawable/ic_share"/>
+    <item android:id="@+id/Profile" android:title="Profile" android:icon="@drawable/ic_profile"/>
+    <item android:id="@+id/Settings" android:title="Settings" android:icon="@drawable/ic_settings"/>
+    <item android:id="@+id/Logout" android:title="Logout" android:icon="@drawable/ic_exit"/>
+</menu>
